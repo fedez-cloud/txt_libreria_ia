@@ -1,0 +1,12 @@
+# Node dependencies
+frontend/node_modules/
+
+# Python virtual environment
+backend/env/
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# Build files
+frontend/build/
